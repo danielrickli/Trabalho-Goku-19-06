@@ -304,7 +304,10 @@ Essa estrutura é eficiente porque:
 A árvore N-ária é a mais adequada para sistemas de arquivos porque representa de forma natural a estrutura de diretórios usada em sistemas operacionais, garantindo organização e facilidade de navegação.
 
 
+---
 
+
+# Parte 4 – Comparação entre Estruturas
 
 | Estrutura   | Nº Máximo de Filhos | Balanceamento                                                  | Complexidade de Busca                | Complexidade de Inserção             | Vantagem Principal                                  | Desvantagem Principal             | Exemplo de Aplicação                          |
 | ----------- | ------------------- | -------------------------------------------------------------- | ------------------------------------ | ------------------------------------ | --------------------------------------------------- | --------------------------------- | --------------------------------------------- |
