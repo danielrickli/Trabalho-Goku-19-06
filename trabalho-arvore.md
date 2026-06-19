@@ -317,5 +317,5 @@ A árvore N-ária é a mais adequada para sistemas de arquivos porque representa
 | N-ária      | N                   | Pode ou não possuir balanceamento, dependendo da implementação | O(log n) em versões balanceadas      | O(log n) em versões balanceadas      | Representa hierarquias complexas de forma eficiente | Pode consumir mais memória        | Sistemas de arquivos, menus e taxonomias      |
 
 ---
-
+...
 
